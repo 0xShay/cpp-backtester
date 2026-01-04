@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
 
-#include "bar.hpp"
+#include "Bar.hpp"
 
 class Strategy {
 public:

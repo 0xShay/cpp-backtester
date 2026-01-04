@@ -1,4 +1,4 @@
-#include "../include/portfolio.hpp"
+#include "Portfolio.hpp"
 
 Portfolio::Portfolio(const double initial_cash) {
     cash = initial_cash;

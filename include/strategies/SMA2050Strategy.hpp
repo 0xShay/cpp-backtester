@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../strategy.hpp"
+#include "Strategy.hpp"
 
 class SMA2050Strategy : Strategy {
 public:

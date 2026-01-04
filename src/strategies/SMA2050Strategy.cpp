@@ -1,4 +1,4 @@
-#include "../../include/strategies/sma2050strategy.hpp"
+#include "strategies/SMA2050Strategy.hpp"
 
 [[nodiscard]] double calculateSMA(const std::vector<Bar>& data, const size_t end_idx, const int period) {
     double total = 0;

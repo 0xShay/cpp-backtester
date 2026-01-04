@@ -3,8 +3,8 @@
 #include <fstream>
 #include <sstream>
 
-#include "../include/strategies/sma2050strategy.hpp"
-#include "../include/portfolio.hpp"
+#include "strategies/SMA2050Strategy.hpp"
+#include "Portfolio.hpp"
 
 class Backtester {
 private:
